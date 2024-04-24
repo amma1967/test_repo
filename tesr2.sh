@@ -6,4 +6,8 @@
 echo "this is ashok"
 
 
-ech "ashok reddy"
+echo "ashok reddy"
+
+
+echo "am reddy"
+
