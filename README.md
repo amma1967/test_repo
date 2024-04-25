@@ -1,2 +1,2 @@
 # test_repo
-this is to learn vcs
+this is to  validate git hub
